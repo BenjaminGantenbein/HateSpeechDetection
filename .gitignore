@@ -5,3 +5,7 @@ __pycache__
 best_model.pth
 
 test_trainer
+
+.DS_Store
+
+Data_Final
